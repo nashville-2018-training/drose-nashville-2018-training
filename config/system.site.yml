@@ -1,0 +1,14 @@
+uuid: 18946f0e-dac5-4bd0-888c-e88b9498a899
+name: drose-nashville-2018-training
+mail: daniel@hook42.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
